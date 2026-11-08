@@ -2,7 +2,7 @@
 
 __Czech composer (1824–1884)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Smetana,+Bedřich
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

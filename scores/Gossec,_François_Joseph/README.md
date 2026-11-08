@@ -2,7 +2,7 @@
 
 __French composer and conductor (1734–1829)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Gossec,+François
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

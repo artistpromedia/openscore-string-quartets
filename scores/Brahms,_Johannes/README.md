@@ -2,7 +2,7 @@
 
 __German composer (1833–1897)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Brahms,+Johannes
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

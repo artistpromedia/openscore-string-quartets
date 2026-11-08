@@ -2,7 +2,7 @@
 
 __Hungarian composer and pianist (1881–1945)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Bartók,+Béla
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

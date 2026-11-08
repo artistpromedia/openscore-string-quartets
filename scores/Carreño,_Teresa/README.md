@@ -2,7 +2,7 @@
 
 __Venezuelan classical pianist (1853–1917)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Carreño,+Teresa
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

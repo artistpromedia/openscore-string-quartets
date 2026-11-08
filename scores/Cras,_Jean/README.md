@@ -2,7 +2,7 @@
 
 __French composer, Commander of French Navy (1879–1932)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Cras,+Jean
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

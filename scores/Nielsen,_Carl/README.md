@@ -2,7 +2,7 @@
 
 __Danish composer (1865–1931)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Nielsen,+Carl
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

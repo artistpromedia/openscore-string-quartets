@@ -2,7 +2,7 @@
 
 __Austrian composer (1860–1903)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Wolf,+Hugo
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

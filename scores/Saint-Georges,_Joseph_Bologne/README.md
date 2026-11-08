@@ -2,7 +2,7 @@
 
 __French virtuoso violinist, composer, conductor, and fencing master (1745–1799)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Saint-Georges,+Joseph
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

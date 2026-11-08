@@ -2,7 +2,7 @@
 
 __French composer, organist, pianist and teacher (1845–1924)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Fauré,+Gabriel
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

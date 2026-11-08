@@ -2,7 +2,7 @@
 
 __Austrian composer (1868–1941)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Müller-Hermann,+Johanna
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

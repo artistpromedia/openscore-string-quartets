@@ -2,7 +2,7 @@
 
 __American composer and pianist (1867–1944)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Beach,+Amy
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

@@ -2,7 +2,7 @@
 
 __German composer (1770–1827)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Beethoven,+Ludwig
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

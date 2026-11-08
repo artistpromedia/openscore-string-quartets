@@ -2,7 +2,7 @@
 
 __German composer, violinist and conductor (1784–1859)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Spohr,+Louis
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

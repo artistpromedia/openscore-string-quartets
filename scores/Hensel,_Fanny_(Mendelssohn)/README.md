@@ -2,7 +2,7 @@
 
 __German pianist and composer (1805–1847)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Hensel,+Fanny
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

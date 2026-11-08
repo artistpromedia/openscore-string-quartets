@@ -2,7 +2,7 @@
 
 __Russian composer (1804–1857)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Glinka,+Mikhail
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

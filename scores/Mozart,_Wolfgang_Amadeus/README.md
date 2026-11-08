@@ -2,7 +2,7 @@
 
 __Austrian composer of the Classical period (1756–1791)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Mozart,+Wolfgang
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

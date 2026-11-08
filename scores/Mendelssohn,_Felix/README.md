@@ -2,7 +2,7 @@
 
 __German composer, pianist, organist and conductor of Jewish descent (1809–1847)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Mendelssohn,+Felix
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

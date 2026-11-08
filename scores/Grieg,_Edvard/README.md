@@ -2,7 +2,7 @@
 
 __Norwegian composer and pianist (1843–1907)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Grieg,+Edvard
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

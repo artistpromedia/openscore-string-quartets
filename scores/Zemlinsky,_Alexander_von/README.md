@@ -2,7 +2,7 @@
 
 __Austrian Jewish composer, conductor, teacher  and art collector (1871–1942)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Zemlinsky,+Alexander
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

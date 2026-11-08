@@ -2,7 +2,7 @@
 
 __German composer (1812–1883)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Mayer,+Emilie
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

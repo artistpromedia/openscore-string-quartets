@@ -2,7 +2,7 @@
 
 __English composer and violist (1879–1941)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Bridge,+Frank
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

@@ -2,7 +2,7 @@
 
 __Austrian composer (1885–1935)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Berg,+Alban
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

@@ -2,7 +2,7 @@
 
 __French composer (1784–1853)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Onslow,+George
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

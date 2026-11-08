@@ -2,7 +2,7 @@
 
 __English composer (1862–1934)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Delius,+Frederick
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

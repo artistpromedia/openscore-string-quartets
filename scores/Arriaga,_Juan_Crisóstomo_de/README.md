@@ -2,7 +2,7 @@
 
 __Spanish composer (1806–1826)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Arriaga,+Juan
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

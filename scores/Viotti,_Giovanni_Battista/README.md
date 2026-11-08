@@ -2,7 +2,7 @@
 
 __Italian violinist and composer of the classical period (1755–1824)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Viotti,+Giovanni
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

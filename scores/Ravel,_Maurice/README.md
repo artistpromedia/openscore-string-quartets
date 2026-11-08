@@ -2,7 +2,7 @@
 
 __French composer (1875–1937)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Ravel,+Maurice
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

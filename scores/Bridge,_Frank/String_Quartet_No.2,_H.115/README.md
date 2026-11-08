@@ -2,9 +2,9 @@
 
 __By [Frank Bridge][composer]__
 
-[set]: https://musescore.com/openscore-string-quartets/sets/5683980
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Bridge,+Frank
+[set]: https://github.com/artistpromedia/apscore-library-quartets
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Transcribed and maintained by contributors to [OpenScore String Quartets].
 
-[OpenScore String Quartets]: https://musescore.com/openscore-string-quartets
+[OpenScore String Quartets]: https://github.com/artistpromedia/apscore-library-quartets

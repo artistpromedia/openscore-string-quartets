@@ -2,7 +2,7 @@
 
 __Bohemian violinist and composer (1801–1866)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Kalliwoda,+Johann
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

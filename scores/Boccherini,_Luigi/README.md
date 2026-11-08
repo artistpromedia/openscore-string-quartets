@@ -2,7 +2,7 @@
 
 __Italian composer and cellist (1743–1805)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Boccherini,+Luigi
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

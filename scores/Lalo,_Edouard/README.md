@@ -2,7 +2,7 @@
 
 __French composer (1823–1892)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Lalo,+Edouard
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

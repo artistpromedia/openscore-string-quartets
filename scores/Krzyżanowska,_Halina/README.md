@@ -2,7 +2,7 @@
 
 __Polish-French pianist and composer (1867–1937)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Krzyżanowska,+Halina
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

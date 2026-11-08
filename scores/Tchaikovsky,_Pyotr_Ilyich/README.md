@@ -2,7 +2,7 @@
 
 __Russian composer (1840–1893)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Tchaikovsky,+Pyotr
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

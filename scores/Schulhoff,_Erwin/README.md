@@ -2,7 +2,7 @@
 
 __Czech composer and pianist (1894–1942)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Schulhoff,+Erwin
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

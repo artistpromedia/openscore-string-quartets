@@ -2,7 +2,7 @@
 
 __French composer (1819–1898)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Gouvy,+Théodore
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

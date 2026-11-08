@@ -2,7 +2,7 @@
 
 __Swedish organist, composer and conductor (1841–1929)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Andrée,+Elfrida
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

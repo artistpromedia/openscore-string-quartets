@@ -2,7 +2,7 @@
 
 __Czech composer (1854–1928)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Janáček,+Leoš
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

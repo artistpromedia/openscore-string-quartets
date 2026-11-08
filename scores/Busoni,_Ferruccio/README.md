@@ -2,7 +2,7 @@
 
 __Italian composer, pianist, and conductor (1866–1924)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Busoni,+Ferruccio
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

@@ -2,7 +2,7 @@
 
 __German composer and orchestra director (1864–1949)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Strauss,+Richard
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

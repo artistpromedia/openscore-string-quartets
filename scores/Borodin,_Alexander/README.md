@@ -2,7 +2,7 @@
 
 __Russian composer, doctor and chemist (1833–1887)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Borodin,+Alexander
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

@@ -2,7 +2,7 @@
 
 __Austrian composer, violinist and silvologist (1739–1799)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Dittersdorf,+Carl
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

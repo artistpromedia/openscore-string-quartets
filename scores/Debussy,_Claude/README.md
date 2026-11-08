@@ -2,7 +2,7 @@
 
 __French classical composer (1862–1918)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Debussy,+Claude
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

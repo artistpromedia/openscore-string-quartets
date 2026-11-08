@@ -2,7 +2,7 @@
 
 __Italian opera composer (1813–1901)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Verdi,+Giuseppe
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

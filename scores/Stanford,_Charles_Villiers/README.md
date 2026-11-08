@@ -2,7 +2,7 @@
 
 __Irish composer, music teacher, and conductor (1852–1924)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Stanford,+Charles
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

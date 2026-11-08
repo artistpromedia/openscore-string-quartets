@@ -2,7 +2,7 @@
 
 __Czech composer (1841–1904)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Dvořák,+Antonín
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

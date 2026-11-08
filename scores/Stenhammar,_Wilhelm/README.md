@@ -2,7 +2,7 @@
 
 __Swedish composer, pianist and conductor (1871–1927)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Stenhammar,+Wilhelm
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

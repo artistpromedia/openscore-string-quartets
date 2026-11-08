@@ -2,7 +2,7 @@
 
 __Austrian composer (1797–1828)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Schubert,+Franz
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

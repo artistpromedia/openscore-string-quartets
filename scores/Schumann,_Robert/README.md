@@ -2,7 +2,7 @@
 
 __German composer, pianist and critic (1810–1856)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Schumann,+Robert
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

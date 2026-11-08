@@ -2,7 +2,7 @@
 
 __Czech composer and violinist (1874–1935)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Suk,+Josef
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

@@ -2,7 +2,7 @@
 
 __Italian Classical and Romantic composer (1760–1842)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Cherubini,+Luigi
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

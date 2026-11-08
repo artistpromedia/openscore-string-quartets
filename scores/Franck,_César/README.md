@@ -2,7 +2,7 @@
 
 __Belgian-French composer and organist (1822–1890)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Franck,+César
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

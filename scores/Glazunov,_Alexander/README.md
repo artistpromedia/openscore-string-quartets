@@ -2,7 +2,7 @@
 
 __Russian composer, music teacher and conductor (1865–1936)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Glazunov,+Alexander
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

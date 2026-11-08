@@ -2,7 +2,7 @@
 
 __French composer (1818–1893)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Gounod,+Charles
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

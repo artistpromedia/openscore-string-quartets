@@ -2,7 +2,7 @@
 
 __French composer and teacher (1851–1931)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Indy,+Vincent
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

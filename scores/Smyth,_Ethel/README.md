@@ -2,7 +2,7 @@
 
 __English composer and suffragette (1858–1944)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Smyth,+Ethel
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

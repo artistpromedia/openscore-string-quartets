@@ -2,7 +2,7 @@
 
 __English composer (1894–1950)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Moeran,+Ernest
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

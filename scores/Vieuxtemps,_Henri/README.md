@@ -2,7 +2,7 @@
 
 __Belgian violinist and composer (1820–1881)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Vieuxtemps,+Henri
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---

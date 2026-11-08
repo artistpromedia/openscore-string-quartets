@@ -2,7 +2,7 @@
 
 __Swedish musician (1853–1894)__
 
-[composer]: https://musescore.com/openscore-string-quartets/sets?order=title&text=Maier,+Amanda
+[composer]: https://github.com/artistpromedia/apscore-library-quartets
 
 Resource | Description
 :---|:---
